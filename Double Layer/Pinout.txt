@@ -1,0 +1,18 @@
+AIO0 : Extruder Thermistor
+AIO1 : Bed Thermistor
+AIO2 : Extruder Enable
+AIO3 : X Minimum
+AIO4 : Y Minimum
+AIO5 : Z Minimum
+DIO2 : Extruder Step
+DIO3 : Bed Heater
+DIO4 : Extruder Direction
+DIO5 : Extruder Heater
+DIO6 : Y Enable
+DIO7 : Y Step
+DIO8 : Y Direction
+DIO9 : Z Enable
+DIO10: Z Step
+DIO11: Z Direction
+DIO12: X Step
+DIO13: X Direction

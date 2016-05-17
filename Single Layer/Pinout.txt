@@ -4,7 +4,7 @@ AIO2 : Z Minimum
 AIO3 : X-Minimum
 AIO4 : Y Minimum
 AIO5 : Extruder Enable
-DIO2 : X step
+DIO2 : X Step
 DIO3 : X Direction
 DIO4 : Extruder Step
 DIO5 : Extruder Direction

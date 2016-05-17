@@ -10524,7 +10524,7 @@ It has a reduced top mask to make it harder to install upside-down.</description
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="R9" library="adafruit" deviceset="R-US_" device="0207/7" value="100k"/>
 <part name="C4" library="capacitor-wima" deviceset="C" device="2,5-3" value="100nF"/>
-<part name="C6" library="adafruit" deviceset="CPOL-US" device="E3.5-8" value="470uF"/>
+<part name="C6" library="adafruit" deviceset="CPOL-US" device="E3.5-8" value="100uF"/>
 <part name="F1" library="RepRapjr" deviceset="PTCFUSE" device="" value="MFR500"/>
 <part name="F2" library="RepRapjr" deviceset="PTCFUSE" device="MFR1100" value="MFR1100"/>
 <part name="D2" library="diode" deviceset="1N4004" device=""/>

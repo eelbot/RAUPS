@@ -1,0 +1,21 @@
+Part Name,Package,Quantity,Digikey Part Number
+Indicator LED,3mm,2,365-1173-ND
+"1x3 0.1"" Header",PTH,3,3M9448-ND
+"2x3 0.1"" Header",PTH,4,3M9459-ND
+"1x4 0.1"" Header",PTH,6,3M9449-ND
+"1x6 0.1"" Header",PTH,2,3M9451-ND
+"1x8 0.1"" Header (Female)",PTH,8,S7041-ND
+"1x8 0.1"" Header (Male)",PTH,4,3M9452-ND
+"1x10 0.1"" Header",PTH,2,609-3250-ND
+4.7k Resistor,PTH,2,S4.7KCACT-ND
+10k Resistor,PTH,4,CF14JT10K0CT-ND
+100k Resistor,PTH,6,CF14JT100KCT-ND
+100nF Capacitor,PTH,2,445-5303-ND
+100uF Capacitor,PTH,2,P5182-ND
+10uF Capacitor,PTH,2,445-5339-ND
+1N4004 Diode,PTH,2,1N4004FSCT-ND
+"0.2"" Pitch Screw Terminal (2POS)",PTH,1,ED10561-ND
+"0.2"" Pitch Screw Terminal (4POS)",PTH,1,ED10563-ND
+PTC Resettable Fuse (11A),PTH,1,RGEF1100-ND
+PTC Resettable Fuse (5A),PTH,2,MF-R500-ND
+STP55NF06L MOSFET,PTH,2,497-6742-5-ND
